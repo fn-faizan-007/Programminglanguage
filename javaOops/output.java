@@ -1,4 +1,4 @@
-package java;
+package javaOops;
 
 /**
  * output
